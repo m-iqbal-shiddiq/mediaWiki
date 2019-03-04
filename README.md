@@ -4,3 +4,6 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
+[`^ kembali ke atas ^`](#)
+
+**MediaWiki** adalah perangkat lunak berbasis server yang dilisensikan di bawah **GNU General Public License** (GPL). **MediaWiki** dirancang untuk berjalan pada *server farm* yang besar dan mendapat jutaan kunjungan per hari.
