@@ -1,5 +1,3 @@
-![alt text][logo]
-
-[logo]: https://github.com/miqbals1649/mediaWiki/blob/master/Img/MediaWiki_logo.jpg "Wikimedia"
+<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/en/0/0f/MediaWiki_logo_reworked_embroidery.jpg"></h1>
 
 # Sekilas Tentang
