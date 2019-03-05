@@ -171,7 +171,6 @@ Isi akun pengurus (akun yang akan digunakan untuk login mediawiki)
 <img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%212.PNG”>
 <img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%213.PNG”>
 Lengkapi sesuai keperluan
-One game dulu gan
 [`^ kembali ke atas ^`](#)
 
 # Maintenance
