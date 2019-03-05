@@ -71,7 +71,7 @@ Reload privilege tables now? [Y/n]:  Y
 
 Dan jalankan ulang MariaDB serve.
 
-```bash
+```
 sudo systemctl restart mariadb.service
 ```
 
@@ -79,7 +79,7 @@ sudo systemctl restart mariadb.service
 
 **MediaWiki** juga membutuhkan fungsi PHP, Untuk menginstall PHP jalankan command berikut.
 
-```bash
+```
 sudo apt-get install php php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-mcrypt php-ldap php-zip php-curl
 ```
 
@@ -105,13 +105,13 @@ CREATE USER 'mediawikiuser'@'localhost' IDENTIFIED BY 'new_password_here';
 
 Dan berikan full akses untuk user.
 
-```bash
+```
 GRANT ALL ON mediawiki.* TO 'mediawikiuser'@'localhost' IDENTIFIED BY 'user_password_here' WITH GRANT OPTION;
 ```
 
 Terakhir simpan dan exit.
 
-```bash
+```
 FLUSH PRIVILEGES;
 EXIT;
 ```
@@ -134,7 +134,7 @@ sudo mv mediawiki-1.29.0/* /var/www/html/mediawiki
 
 Mengganti dan memodifikasi *directory permission.*
 
-```bash
+```
 sudo chown -R www-data:wwrw-data /var/www/html/
 sudo chmod -R 755 /var/www/html/
 ```
@@ -148,7 +148,7 @@ sudo chmod -R 755 /var/www/html/
 
 Halaman Utama.
 
-<h1 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG”></h1>
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG)
 
 Klik set up the wiki first untuk melakukan konfigurasi awal.
 
