@@ -165,7 +165,6 @@ Isi nama wiki beserta nama proyek
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%207.PNG">
 Isi akun pengurus (akun yang akan digunakan untuk login mediawiki)
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%208.PNG">
-
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG">
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG">
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%210.PNG">
