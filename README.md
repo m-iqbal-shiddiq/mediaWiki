@@ -178,15 +178,18 @@ Lengkapi sesuai keperluan
 [`^ kembali ke atas ^`](#)
 
 **Penggunaan Dasar**
+
 Untuk mengedit halaman, cukup klik tautan edit yang muncul di setiap halaman. Gunakan skin Vector default, ini dalam bentuk tab di bagian atas halaman. Sebuah formulir akan muncul, berisi markup yang ada. Setelah selesai melakukan modifikasi, klik tombol Simpan untuk melakukan perubahan Anda.
 
 **Membuat Laman Baru**
+
 Ada beberapa cara untuk membuat halaman baru:
 Buat tautan ke halaman di halaman lain, lalu klik tautan merah yang muncul
 Telusuri ke lokasi laman yang dituju, mis. http://www.example.com/index.php?title=New_page dan klik tautan "**Edit**", "**Create**" atau "**Create Source**".
 Pada beberapa wiki, pencarian halaman yang gagal akan berisi tautan yang memungkinkan Anda untuk mengedit halaman itu.
 
 **Bagaimana cara menghapus suatu versi lama suatu laman?**
+
 Versi lama data halaman disimpan dalam database dan dapat diakses melalui fitur history. Ini berguna untuk meninjau perubahan dan memperbaiki atau mengembalikan yang tidak diinginkan, tetapi dalam beberapa kasus, administrator mungkin ingin membuat informasi ini tidak tersedia, karena alasan hukum, atau untuk mengurangi ukuran database.
 Administrator dapat menghapus revisi halaman yang lama dengan menghapus halaman tersebut, dan kemudian membatalkan penghapusan revisi secara selektif.
 Ekstensi Pengawasan (juga dikenal sebagai HideRevision) dapat digunakan untuk memindahkan revisi berbahaya dari riwayat halaman pada versi MediaWiki yang lebih lama (<1,16).
