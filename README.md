@@ -181,6 +181,7 @@ Lengkapi sesuai keperluan
 [`^ kembali ke atas ^`](#)
 
 # Cara Pemakaian
+[`^ kembali ke atas ^`](#)
 **Penggunaan Dasar**
 Untuk mengedit halaman, cukup klik tautan edit yang muncul di setiap halaman. Gunakan skin Vector default, ini dalam bentuk tab di bagian atas halaman. Sebuah formulir akan muncul, berisi markup yang ada. Setelah selesai melakukan modifikasi, klik tombol Simpan untuk melakukan perubahan Anda.
 
@@ -200,9 +201,10 @@ Skrip pemeliharaan maintenance / deleteOldRevisions.php dapat menghapus secara m
 
 
 
-[`^ kembali ke atas ^`](#)
+
 
 # Pembahasan
+[`^ kembali ke atas ^`](#)
 Sebuah wiki adalah sebuah jenis situs web yang kontennya dapat disunting dari peramban web, dan situs web yang tetap menyimpan versi terdahulu dari setiap halaman yang dapat disunting. Wiki seringkali, tetapi tidak selalu, dapat disunting oleh setiap pengunjung situs.
 
 MediaWiki adalah perangkat lunak berbasis server yang dilisensikan di bawah GNU General Public License (GPL). MediaWiki dirancang untuk berjalan pada server farm yang besar dan mendapat jutaan kunjungan per hari. MediaWiki merupakan perangkat lunak implementasi dari wiki yang sangat andal, terskalakan dan banyak fitur. MediaWiki menggunakan PHP untuk memproses dan menampilkan data yang tersimpan dalam database mysql.
@@ -222,10 +224,14 @@ Wikimedia adalah nama kolektif untuk sekelompok proyek yang saling terkait, term
 Wikipedia adalah sebuah proyek Wikimedia yang mendunia, bebas ensiklopedia daring multibahasa. Wikipedia adalah yang tertua, terbesar, dari proyek Wikimedia, mendahului Yayasan Wikimedia itu sendiri. Wikipedia seringkali dideskripsikan sebagai sebuah wiki, tetapi faktanya Wikipedia adalah kumpulan dari lebih dari 200 wiki, satu untuk setiap bahasa, yang semuanya dijalankan di perangkat lunak MediaWiki.
 MediaWiki adalah sebuah mesin wiki, yang dikembangkan untuk dan digunakan oleh Wikipedia dan proyek Wikimedia lainnya. MediaWiki tersedia secara bebas untuk digunakan (dan dikembangkan) oleh orang lain, dan salinannya telah digunakan pada berbagai jenis proyek dan organisasi di seluruh dunia.
 
-[`^ kembali ke atas ^`](#)
+
 
 # Referensi
 [`^ kembali ke atas ^`](#)
+
+https://www.mediawiki.org/wiki/Manual:FAQ
+https://websiteforstudents.com/install-mediawiki-ubuntu-17-04-17-10-apache2-mariadb-php/
+https://www.howtoforge.com/tutorial/how-to-install-mediawiki-on-ubuntu-1804/
 
 
 
