@@ -4,7 +4,6 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG">
 [`^ kembali ke atas ^`](#)
 
 **MediaWiki** adalah perangkat lunak berbasis server yang dilisensikan di bawah **GNU General Public License** (GPL). **MediaWiki** dirancang untuk berjalan pada *server farm* yang besar dan mendapat jutaan kunjungan per hari. **MediaWiki** merupakan perangkat lunak implementasi dari *wiki* yang sangat andal, terskalakan dan banyak fitur. **MediaWiki** menggunakan **PHP** untuk memproses dan menampilkan data yang tersimpan dalam ***database mysql***.
