@@ -182,6 +182,7 @@ Lengkapi sesuai keperluan
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+
 **Penggunaan Dasar**
 Untuk mengedit halaman, cukup klik tautan edit yang muncul di setiap halaman. Gunakan skin Vector default, ini dalam bentuk tab di bagian atas halaman. Sebuah formulir akan muncul, berisi markup yang ada. Setelah selesai melakukan modifikasi, klik tombol Simpan untuk melakukan perubahan Anda.
 
@@ -205,6 +206,7 @@ Skrip pemeliharaan maintenance / deleteOldRevisions.php dapat menghapus secara m
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
+
 Sebuah wiki adalah sebuah jenis situs web yang kontennya dapat disunting dari peramban web, dan situs web yang tetap menyimpan versi terdahulu dari setiap halaman yang dapat disunting. Wiki seringkali, tetapi tidak selalu, dapat disunting oleh setiap pengunjung situs.
 
 MediaWiki adalah perangkat lunak berbasis server yang dilisensikan di bawah GNU General Public License (GPL). MediaWiki dirancang untuk berjalan pada server farm yang besar dan mendapat jutaan kunjungan per hari. MediaWiki merupakan perangkat lunak implementasi dari wiki yang sangat andal, terskalakan dan banyak fitur. MediaWiki menggunakan PHP untuk memproses dan menampilkan data yang tersimpan dalam database mysql.
