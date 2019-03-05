@@ -167,10 +167,10 @@ Isi akun pengurus (akun yang akan digunakan untuk login mediawiki)
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%208.PNG">
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG">
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG">
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%210.PNG">
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%211.PNG">
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%212.PNG">
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%213.PNG">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%2010.PNG">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%2011.PNG">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%2012.PNG">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%2013.PNG">
 Lengkapi sesuai keperluan
 
 
