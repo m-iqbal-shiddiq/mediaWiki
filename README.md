@@ -10,6 +10,11 @@
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
+Ikuti petunjuk berikut untuk menginstall MediaWiki:
+## Step 1: Install Apache2
+**MediaWiki** membutuhkan webserver untuk berfungsi dan webserver yang umum digunakan adalah Apache2. Untuk menginstall Apache2 di ubuntu jalankan command berikut:
+
+$ sudo apt-get install apache2
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
