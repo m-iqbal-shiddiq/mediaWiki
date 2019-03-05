@@ -11,15 +11,117 @@
 # Instalasi
 [`^ kembali ke atas ^`](#)
 Ikuti petunjuk berikut untuk menginstall MediaWiki:
+
 ## Step 1: Install Apache2
+
 **MediaWiki** membutuhkan webserver untuk berfungsi dan webserver yang umum digunakan adalah Apache2. Untuk menginstall Apache2 di ubuntu jalankan command berikut:
 
- ```
-$ sudo apt-get install apache2
- ```
+```
+sudo apt-get install apache2
+```
+
+Setelah menginstall Apache2, jalankan command berikut untuk menonaktifkan *directory lsting.*
+
+```
+sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
+```
+
+Berikutnya jalankan perintah berikut agar apache2 selalu aktif saat server menyala.
+
+```
+sudo systemctl stop apache2.service
+sudo systemctl start apache2.service
+sudo systemctl enable apache2.service
+```
+
+## Step 2: Install MariaDB
+
+**MediaWiki** juga membutuhkan database untuk menjalankan fungsinya dan kali ini kita akan menggunakan MariaDB. Untuk meningstall MariaDB jalankan command berikut:
+
+```
+sudo apt-get install mariadb-server mariadb-client
+```
+
+Berikutnya jalankan perintah berikut agar MariaDB selalu aktif saat server menyala.
+
+```
+sudo systemctl stop mariadb.service
+sudo systemctl start mariadb.service
+sudo systemctl enable mariadb.service
+````
+
+Setelah itu untuk keamanan jalankan perintah berikut.
+
+```
+sudo mysql_secure_installation
+```
+
+Dan jawab pertanyaan berikut seperti contoh dibawah ini.
+
+```
+Enter current password for root (enter for none): tekan tombol Enter
+Set root password? [Y/n]: Y
+New password: Enter password
+Re-enter new password: Repeat password
+Remove anonymous users? [Y/n]: Y
+Disallow root login remotely? [Y/n]: Y
+Remove test database and access to it? [Y/n]:  Y
+Reload privilege tables now? [Y/n]:  Y
+```
+
+Dan jalankan ulang MariaDB serve.
+
+```bash
+sudo systemctl restart mariadb.service
+```
+
+## Step 3: Install PHP dan Modul yang Diperlukan
+
+**MediaWiki** juga membutuhkan fungsi PHP, Untuk menginstall PHP jalankan command berikut.
+
+```bash
+sudo apt-get install php php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-mcrypt php-ldap php-zip php-curl
+```
+## Step 4: Membuat MediaWiki Database
+
+Setelah menginstall semua yang dibutuhkan, selanjutnya mulai untuk mengkonfigurasi server. Pertama jalankan perintah berikut untuk masuk ke database server.
+
+```
+sudo mysql -u root -p
+```
+
+Selanjutnya buat database dengan nama mediawiki.
+
+```
+CREATE DATABASE mediawiki;
+```
+
+Buat user untuk database dengan nama mediawikiuser dengan password baru.
+
+```
+CREATE USER 'mediawikiuser'@'localhost' IDENTIFIED BY 'new_password_here';
+```
+
+Dan berikan full akses untuk user.
+
+```bash
+GRANT ALL ON mediawiki.* TO 'mediawikiuser'@'localhost' IDENTIFIED BY 'user_password_here' WITH GRANT OPTION;
+```
+
+Terakhir simpan dan exit.
+
+```bash
+FLUSH PRIVILEGES;
+EXIT;
+```
+
+
+
+
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
+
 
 # Maintenance
 [`^ kembali ke atas ^`](#)
