@@ -158,7 +158,7 @@ Pilih bahasa yang akan digunakan untuk aplikasi.
 
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%203.PNG)
 
-Klik lanjut untuk menyetujui persyaratan MediaWiki.
+Klik lanjut untuk menyetujui persyaratan**MediaWiki**.
 
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%204.PNG)
 
@@ -177,11 +177,17 @@ Isi nama wiki beserta nama proyek.
 Isi akun pengurus (akun yang akan digunakan untuk login mediawiki).
 
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%208.PNG)
+
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG)
+
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG)
+
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%210.PNG)
+
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%211.PNG)
+
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%212.PNG)
+
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%213.PNG)
 
 Lengkapi sesuai keperluan.
