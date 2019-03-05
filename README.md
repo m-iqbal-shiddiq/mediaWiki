@@ -115,12 +115,60 @@ FLUSH PRIVILEGES;
 EXIT;
 ```
 
+## Step 5: Download MediaWiki
+
+Berikutnya, jalankan command berikut untuk mendownload dengan command.
+
+```
+cd /tmp && wget https://releases.wikimedia.org/mediawiki/1.29/mediawiki-1.29.0.tar.gz
+```
+
+Dan jalankan command untuk mengekstrak ke folder Apache2.
+
+```
+sudo tar -zxvf mediawiki*.tar.gz
+sudo mkdir -p /var/www/html/mediawiki
+sudo mv mediawiki-1.29.0/* /var/www/html/mediawiki
+```
+
+Mengganti dan memodifikasi *directory permission.*
+
+```bash
+sudo chown -R www-data:wwrw-data /var/www/html/
+sudo chmod -R 755 /var/www/html/
+```
+
 
 
 
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
+
+Halaman Utama.
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG”>
+Klik set up the wiki first untuk melakukan konfigurasi awal.
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%202.PNG”>
+Pilih bahasa yang akan digunakan untuk aplikasi.
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%203.PNG”>
+Klik lanjut untuk menyetujui persyaratan MediaWiki.
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%204.PNG”>
+Pilih jenis database yang digunakan (aplikasi kami menggunakan database mysql). Lalu gunakan localhost untuk inang basis data (karena aplikasi berjalan di server lokal).
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%205.PNG”>
+Isi identifikasi wiki dan akun pengguna basis data sesuai proses instalasi.
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%206.PNG”>
+Isi nama wiki beserta nama proyek.
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%207.PNG”>
+Isi akun pengurus (akun yang akan digunakan untuk login mediawiki).
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%208.PNG”>
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG”>
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG”>
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%210.PNG”>
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%211.PNG”>
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%212.PNG”>
+<img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%213.PNG”>
+Lengkapi sesuai keperluan.
+
 
 
 # Maintenance
