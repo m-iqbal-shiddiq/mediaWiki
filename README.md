@@ -147,6 +147,7 @@ sudo systemctl restart apache2.service
 Selanjutnya ketikan alamat domain yang sudah dibuat atau IP address dan akan muncul tampilan MediaWiki site setup wizard seperti gambar dibawah. 
 
 # Konfigurasi
+[`^ kembali ke atas ^`](#)
 Halaman Utama
 <img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG”>
 Klik set up the wiki first untuk melakukan konfigurasi awal
@@ -171,7 +172,7 @@ Isi akun pengurus (akun yang akan digunakan untuk login mediawiki)
 <img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%212.PNG”>
 <img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%213.PNG”>
 Lengkapi sesuai keperluan
-[`^ kembali ke atas ^`](#)
+
 
 # Maintenance
 [`^ kembali ke atas ^`](#)
