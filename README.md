@@ -152,37 +152,37 @@ Halaman Utama.
 
 Klik set up the wiki first untuk melakukan konfigurasi awal.
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%202.PNG”></h3>
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%202.PNG)
 
 Pilih bahasa yang akan digunakan untuk aplikasi.
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%203.PNG”></h3>
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%203.PNG)
 
 Klik lanjut untuk menyetujui persyaratan MediaWiki.
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%204.PNG”></h3>
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%204.PNG)
 
 Pilih jenis database yang digunakan (aplikasi kami menggunakan database mysql). Lalu gunakan localhost untuk inang basis data (karena aplikasi berjalan di server lokal).
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%205.PNG”></h3>
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%205.PNG)
 
 Isi identifikasi wiki dan akun pengguna basis data sesuai proses instalasi.
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%206.PNG”></h3>
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%206.PNG)
 
 Isi nama wiki beserta nama proyek.
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%207.PNG”></h3>
+<![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%207.PNG)
 
 Isi akun pengurus (akun yang akan digunakan untuk login mediawiki).
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%208.PNG”></h3>
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG”></h3>
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG”></h3>
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%210.PNG”></h3>
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%211.PNG”></h3>
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%212.PNG”></h3>
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%213.PNG”></h3>
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%208.PNG)
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG)
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG)
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%210.PNG)
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%211.PNG)
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%212.PNG)
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%213.PNG)
 
 Lengkapi sesuai keperluan.
 
