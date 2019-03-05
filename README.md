@@ -181,7 +181,7 @@ sudo systemctl restart apache2.service
 
 Selanjutnya ketikan alamat domain yang sudah dibuat atau IP address dan akan muncul tampilan ***MediaWiki** site setup wizard* seperti gambar dibawah. 
 
-
+![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG)
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
