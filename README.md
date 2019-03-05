@@ -4,9 +4,9 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG">
 [`^ kembali ke atas ^`](#)
 
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG">
 **MediaWiki** adalah perangkat lunak berbasis server yang dilisensikan di bawah **GNU General Public License** (GPL). **MediaWiki** dirancang untuk berjalan pada *server farm* yang besar dan mendapat jutaan kunjungan per hari. **MediaWiki** merupakan perangkat lunak implementasi dari *wiki* yang sangat andal, terskalakan dan banyak fitur. **MediaWiki** menggunakan **PHP** untuk memproses dan menampilkan data yang tersimpan dalam ***database mysql***.
 
 # Instalasi
@@ -231,9 +231,9 @@ MediaWiki adalah sebuah mesin wiki, yang dikembangkan untuk dan digunakan oleh W
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-https://www.mediawiki.org/wiki/Manual:FAQ
-https://websiteforstudents.com/install-mediawiki-ubuntu-17-04-17-10-apache2-mariadb-php/
-https://www.howtoforge.com/tutorial/how-to-install-mediawiki-on-ubuntu-1804/
+https://www.mediawiki.org/wiki/Manual:FAQ<br>
+https://websiteforstudents.com/install-mediawiki-ubuntu-17-04-17-10-apache2-mariadb-php/<br>
+https://www.howtoforge.com/tutorial/how-to-install-mediawiki-on-ubuntu-1804/<br>
 
 
 
