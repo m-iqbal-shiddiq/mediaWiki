@@ -144,7 +144,7 @@ Untuk menjalankan semua fungsi yang sudah dibuat, restart Apache2 dengan menjala
 ```bash
 sudo systemctl restart apache2.service
 ```
-Selanjutnya ketikan alamat domain yang sudah dibuat atau IP address dan akan muncul tampilan MediaWiki site setup wizard seperti gambar dibawah. 
+Selanjutnya ketikan alamat domain yang sudah dibuat atau IP address dan akan muncul tampilan MediaWiki site setup wizard.
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
