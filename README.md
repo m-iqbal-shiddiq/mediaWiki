@@ -139,7 +139,47 @@ sudo chown -R www-data:wwrw-data /var/www/html/
 sudo chmod -R 755 /var/www/html/
 ```
 
+### Step 6: Configure Apache2
+Terakhir, konfigurasi Apache2 site *configuration* file untuk **MediaWiki**. File ini akan mengontrol user yang mengakses konten di **MediaWiki**. Jalankan perintah dibawah untuk membuat fail konfigurasi bernama **mediawiki.conf**.
 
+```
+sudo nano /etc/apache2/sites-available/mediawiki.conf
+```
+
+Selanjutnya salin kalimat ini dan simpan ke **mediawiki.conf**, untuk nama domain dan lokasi dokumen dapat disesuaikan.
+
+```
+<VirtualHost *:80>
+     ServerAdmin admin@example.com
+     DocumentRoot /var/www/html/mediawiki/
+     ServerName example.com
+     ServerAlias www.example.com
+
+     ErrorLog ${APACHE_LOG_DIR}/error.log
+     CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+</VirtualHost>
+```
+
+Simpan dan exit.
+
+### Step 7: Aktifkan MediaWiki
+
+Setelah selesai mengkonfigurasi VirtualHost, aktifkan dengan menjalankan perintah berikut.
+
+```
+sudo a2ensite mediawiki.conf
+```
+
+### Step 8: Restart Apache2
+
+Untuk menjalankan semua fungsi yang sudah dibuat, *restart* **Apache2** dengan menjalankan perintah berikut.
+
+```
+sudo systemctl restart apache2.service
+```
+
+Selanjutnya ketikan alamat domain yang sudah dibuat atau IP address dan akan muncul tampilan ***MediaWiki** site setup wizard* seperti gambar dibawah. 
 
 
 
