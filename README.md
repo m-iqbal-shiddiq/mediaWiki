@@ -201,7 +201,7 @@ MediaWiki adalah perangkat lunak berbasis server yang dilisensikan di bawah GNU 
 
 Kelebihan dari MediaWiki adalah:
 * Pemeliharaan dan dukungan jangka panjang: Pengembangan MediaWiki didukung oleh organisasi dengan anggaran tahunan lebih dari $ 27 juta. Orang tidak perlu khawatir bahwa di masa mendatang basis kode akan sepenuhnya ditinggalkan oleh pengembangnya dan menjadi tidak terawat.
-* Kesesuaian untuk wiki besar, sangat aktif: MediaWiki digunakan oleh Wikipedia bahasa Inggris, wiki terbesar di dunia, dengan lebih dari 4 juta halaman, 600 juta suntingan sejak awal proyek, [1] dan 470 juta pengunjung unik setiap bulan. [2 ] MediaWiki telah dirancang dengan skalabilitas dalam pikiran untuk penggunaan tinggi, situs profil tinggi yang rentan terhadap vandalisme, spam, dan serangan lainnya.
+* Kesesuaian untuk wiki besar, sangat aktif: MediaWiki digunakan oleh Wikipedia bahasa Inggris, wiki terbesar di dunia, dengan lebih dari 4 juta halaman, 600 juta suntingan sejak awal proyek, dan 470 juta pengunjung unik setiap bulan. MediaWiki telah dirancang dengan skalabilitas dalam pikiran untuk penggunaan tinggi, situs profil tinggi yang rentan terhadap vandalisme, spam, dan serangan lainnya.
 * Banyak konten untuk dipinjam: Apa pun jenis artikel atau templat (mis. Infobox) yang biasa Anda lihat di Wikipedia dan menurut Anda akan berguna di situs Anda, Anda dapat mengimpor. Seringkali tempat awal untuk wiki baru adalah meminjam konten dari Wikipedia (tunduk pada lisensi CC BY-SA). Jika Anda menggunakan perangkat lunak wiki selain MediaWiki, konten Wikipedia mungkin harus diformat ulang atau Anda harus mulai dari awal.
 
 Kelemahan MediaWiki:
