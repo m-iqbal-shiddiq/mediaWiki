@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/en/0/0f/MediaWiki_logo_reworked_embroidery.jpg"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) |  [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
@@ -173,13 +173,6 @@ Isi akun pengurus (akun yang akan digunakan untuk login mediawiki)
 <img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%2013.PNG">
 Lengkapi sesuai keperluan
 
-
-# Maintenance
-[`^ kembali ke atas ^`](#)
-
-# Otomatisasi
-[`^ kembali ke atas ^`](#)
-
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
@@ -198,11 +191,6 @@ Administrator dapat menghapus revisi halaman yang lama dengan menghapus halaman 
 Ekstensi Pengawasan (juga dikenal sebagai HideRevision) dapat digunakan untuk memindahkan revisi berbahaya dari riwayat halaman pada versi MediaWiki yang lebih lama (<1,16).
 Untuk MediaWikis yang lebih baru (1,14+), Anda dapat mengaktifkan fitur RevisionDelete inti yang memungkinkan pengguna yang memiliki hak istimewa untuk menghapus satu revisi dari histori halaman.
 Skrip pemeliharaan maintenance / deleteOldRevisions.php dapat menghapus secara massal semua revisi halaman lama dan catatan teks yang terkait.
-
-
-
-
-
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
