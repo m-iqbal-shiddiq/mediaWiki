@@ -177,11 +177,11 @@ Isi nama wiki beserta nama proyek.
 Isi akun pengurus (akun yang akan digunakan untuk login mediawiki).
 
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%208.PNG)
-
+//
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG)
-
+//
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%209.PNG)
-
+//
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%210.PNG)
 
 ![alt text](https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%211.PNG)
