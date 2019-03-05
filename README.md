@@ -148,7 +148,7 @@ sudo chmod -R 755 /var/www/html/
 
 Halaman Utama.
 
-<h3 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG”></h3>
+<h1 align="center"><img src=”https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/MW%201.PNG”></h1>
 
 Klik set up the wiki first untuk melakukan konfigurasi awal.
 
