@@ -105,7 +105,7 @@ Berikutnya, jalankan command berikut untuk mendownload dengan command
 cd /tmp && wget https://releases.wikimedia.org/mediawiki/1.29/mediawiki-1.29.0.tar.gz
 ```
 Dan jalankan command untuk mengekstrak ke folder Apache2
-```bash2
+```bash
 sudo tar -zxvf mediawiki*.tar.gz
 sudo mkdir -p /var/www/html/mediawiki
 sudo mv mediawiki-1.29.0/* /var/www/html/mediawiki
@@ -180,6 +180,9 @@ Lengkapi sesuai keperluan
 **Penggunaan Dasar**
 
 Untuk mengedit halaman, cukup klik tautan edit yang muncul di setiap halaman. Gunakan skin Vector default, ini dalam bentuk tab di bagian atas halaman. Sebuah formulir akan muncul, berisi markup yang ada. Setelah selesai melakukan modifikasi, klik tombol Simpan untuk melakukan perubahan Anda.
+
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M1.PNG">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M2.PNG">
 
 **Membuat Laman Baru**
 
