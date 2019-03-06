@@ -191,6 +191,10 @@ Buat tautan ke halaman di halaman lain, lalu klik tautan merah yang muncul
 Telusuri ke lokasi laman yang dituju, mis. http://www.example.com/index.php?title=New_page dan klik tautan "**Edit**", "**Create**" atau "**Create Source**".
 Pada beberapa wiki, pencarian halaman yang gagal akan berisi tautan yang memungkinkan Anda untuk mengedit halaman itu.
 
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M3.png">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M4.png">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M5.png">
+
 **Bagaimana cara menghapus suatu versi lama suatu laman?**
 
 Versi lama data halaman disimpan dalam database dan dapat diakses melalui fitur history. Ini berguna untuk meninjau perubahan dan memperbaiki atau mengembalikan yang tidak diinginkan, tetapi dalam beberapa kasus, administrator mungkin ingin membuat informasi ini tidak tersedia, karena alasan hukum, atau untuk mengurangi ukuran database.
