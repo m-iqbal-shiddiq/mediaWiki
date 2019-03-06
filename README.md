@@ -181,8 +181,8 @@ Lengkapi sesuai keperluan
 
 Untuk mengedit halaman, cukup klik tautan edit yang muncul di setiap halaman. Gunakan skin Vector default, ini dalam bentuk tab di bagian atas halaman. Sebuah formulir akan muncul, berisi markup yang ada. Setelah selesai melakukan modifikasi, klik tombol Simpan untuk melakukan perubahan Anda.
 
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M1.PNG">
-<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M2.PNG">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M1.png">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M2.png">
 
 **Membuat Laman Baru**
 
