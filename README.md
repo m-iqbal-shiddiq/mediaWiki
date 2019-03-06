@@ -203,6 +203,9 @@ Ekstensi Pengawasan (juga dikenal sebagai HideRevision) dapat digunakan untuk me
 Untuk MediaWikis yang lebih baru (1,14+), Anda dapat mengaktifkan fitur RevisionDelete inti yang memungkinkan pengguna yang memiliki hak istimewa untuk menghapus satu revisi dari histori halaman.
 Skrip pemeliharaan maintenance / deleteOldRevisions.php dapat menghapus secara massal semua revisi halaman lama dan catatan teks yang terkait.
 
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M6.png">
+<img src="https://github.com/miqbals1649/mediaWiki/blob/master/Komdat/M7.png">
+
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
